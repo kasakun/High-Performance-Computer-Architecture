@@ -1,0 +1,145 @@
+[0]   Thread 0 (0) Create
+Begin skipping: requested 0 instructions
+
+End skipping: requested 0 skipped 0
+
+[156074563]   Thread 0 (0) Exit
+
+
+======================= Coherence message stat ======================
+
+	ReadRequest                   	471426
+	ExclusiveReply                	529134
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	57708
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	528110
+	WriteBackBusyAck              	0
+	WriteBackRequest              	528110
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	70626
+	MeshMemAccess                 	87200
+	MeshMemAccessReply            	0
+	NOP                           	0
+
+
+
+
+======================= Network selection stat ======================
+
+	SIZE         : 72610832
+
+
+======================= Message per Network selection stat ======================
+
+	ReadRequest                   	334917
+	ExclusiveReply                	378820
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	43903
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	378052
+	WriteBackBusyAck              	0
+	WriteBackRequest              	378052
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	70626
+	MeshMemAccess                 	87200
+	MeshMemAccessReply            	87200
+	NOP                           	0
+
+
+	MultipleDestInvalidation : 0
+	TotDestInvalidation : 0
+
+
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 2075   Correct: 811  Inst Number:1028
+10-99   All: 7361   Correct: 4934  Inst Number:153
+100-999 All: 87770   Correct: 45634  Inst Number:428
+1000+   All: 16563443   Correct: 14060983  Inst Number:725
+Accuracy : 0.847048
+================================================================================
+1-9     All: 321   Correct: 317  Inst Number:148
+10-99   All: 873   Correct: 873  Inst Number:15
+100-999 All: 2154   Correct: 2154  Inst Number:12
+1000+   All: 1473561   Correct: 1473561  Inst Number:73
+Accuracy : 0.999997
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
+1-9     All: 0   Correct: 0  Inst Number:0
+10-99   All: 0   Correct: 0  Inst Number:0
+100-999 All: 0   Correct: 0  Inst Number:0
+1000+   All: 0   Correct: 0  Inst Number:0
+================================================================================
